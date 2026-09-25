@@ -1,0 +1,41 @@
+review_id,movie_id,reviewer,rating,review_text,review_date
+1,1,"Harlan B",5,"This film blew me away from the opening scene. The direction is bold, the acting is heartfelt, and the score stayed with me for days.",2020-11-02
+2,1,"Ines P",4,"A little slow in the second act but the payoff in the final twenty minutes is completely earned.",2020-11-15
+3,2,"Marcus D",3,"I wanted to like this so much more than I did. The pacing drags in the middle act and the ending feels rushed.",2021-04-10
+4,3,"Yumi S",3,"A solid, workmanlike thriller. Nothing groundbreaking, but it does exactly what it sets out to do.",2020-08-22
+5,3,"Rafael G",4,"The financial jargon is dense but the family drama underneath more than makes up for it.",2020-09-01
+6,4,"Kelsey O",1,"Absolutely dreadful. The dialogue is wooden, the plot makes no sense, and I checked my phone more than the screen.",2022-06-14
+7,4,"Bao T",2,"Loud, forgettable, and clearly missing the crew that made the first one work.",2022-06-20
+8,5,"Priti N",5,"One of the most emotionally honest coming-of-age... wait, sisterhood stories I've seen in years. The lead performance is a revelation.",2021-07-19
+9,6,"Owen K",3,"The visuals are stunning but the story is paper-thin. Style over substance, unfortunately.",2023-03-05
+10,6,"Delphine R",4,"Gorgeous world-building. I would happily watch two more hours of just the ship's corridors.",2023-03-12
+11,7,"Amaka F",5,"A charming little indie gem. Low budget, huge heart. I laughed and cried in equal measure.",2020-05-18
+12,8,"Trevor L",2,"The sequel completely squanders the goodwill of the original. Lazy writing, worse jokes.",2020-02-09
+13,8,"Sienna W",4,"Genuinely tense practical stunt work. They don't make chase movies like this anymore.",2020-02-15
+14,9,"Grace M",3,"Competent but forgettable. I'd already stopped thinking about it by the time I got home.",2021-09-30
+15,10,"Idris A",5,"Every frame is a painting. This director has outdone themselves, a masterclass in tension.",2024-01-11
+16,10,"Naomi C",5,"The mining-station politics are surprisingly gripping. Best sci-fi of the year for me.",2024-01-20
+17,11,"Petra V",2,"The lead actor is miscast and it drags the whole film down with him.",2021-03-08
+18,12,"Wesley H",4,"A cozy, predictable rom-com that hits every beat you expect, and that's exactly why it works.",2022-02-14
+19,13,"Farah Z",2,"Convoluted plot twists that exist purely to confuse, not to reward attentive viewers.",2023-10-06
+20,14,"Kenji R",5,"Genuinely terrifying. I haven't slept properly since watching this at midnight.",2023-10-29
+21,14,"Lola B",4,"A haunted-house movie with actual heart. The final act made me tear up, unexpectedly.",2023-11-02
+22,15,"Marisol T",4,"The soundtrack alone is worth the price of admission. Everything else is just a bonus.",2021-06-03
+23,16,"Deon P",2,"Painfully slow first hour that the rushed finale can't make up for.",2022-08-19
+24,17,"Anika V",5,"A quiet, patient drama that trusts its audience. Refreshing in an era of noise.",2025-02-01
+25,18,"Colton S",2,"The CGI looks like it belongs in a video game from a decade ago. Distracting throughout.",2020-07-17
+26,19,"Ruth E",5,"Funny, sharp, and surprisingly tender by the end. A great date-night pick.",2022-05-27
+27,20,"Tobias M",3,"I respect the ambition, but the film collapses under the weight of its own ideas.",2024-04-15
+28,21,"Camille J",2,"Every jump scare is telegraphed a mile away. Genuinely more funny than frightening.",2021-10-12
+29,22,"Odalys F",4,"A career-best performance anchors an otherwise uneven script.",2025-05-09
+30,23,"Baxter Q",4,"Whip-smart dialogue and a cast that clearly loves being there. Pure fun.",2020-03-27
+31,24,"Selin K",5,"An eye-opening look at a subject I thought I already understood. Essential viewing.",2024-09-13
+32,25,"Nadia G",4,"Style-heavy but scare-light — no wait, this one actually delivers. Genuinely unnerving concept.",2026-01-24
+33,25,"Ezra L",5,"The found-footage-via-filter gimmick shouldn't work this well. Scared me off social media for a week.",2026-02-02
+34,26,"Mireille D",4,"Twisty in a good way, the kind of thriller you immediately want to rewatch.",2026-03-11
+35,27,"Grant P",5,"A tender, unhurried farewell to a way of life. One of the best dramas of the decade so far.",2026-04-02
+36,28,"Tamsin R",4,"Inventive, colorful, and surprisingly moving for a movie about a glitching video game character.",2026-05-19
+37,29,"Idris A",5,"Gorgeous fantasy worldbuilding with a genuinely clever central idea about maps and memory.",2026-06-08
+38,30,"Priti N",4,"A sweet, low-key romance that earns its slow burn. Perfect one-sitting watch.",2026-07-14
+39,30,"Owen K",5,"The meteor-shower motif is used so well. One of my favorite endings this year.",2026-08-03
+40,29,"Farah Z",4,"Dense mythology but the emotional core (a daughter finishing her father's work) never gets lost.",2026-07-02
